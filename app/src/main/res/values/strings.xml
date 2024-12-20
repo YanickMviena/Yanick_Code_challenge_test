@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CodingCallengeYanic</string>
+    <string name="unexpected_error">Something went wrong. Please try later</string>
+</resources>
